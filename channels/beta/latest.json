@@ -1,20 +1,20 @@
 {
-  "version": "0.2.0-beta.2",
+  "version": "0.2.0-beta.3",
   "notes": "",
-  "pub_date": "2026-10-10T03:50:46.995Z",
+  "pub_date": "2026-10-10T10:21:15.914Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeUplcTVwdzByTjdCY3d0WVl4ckl0Mk9BK1BVdjNHOVdPaDVPVWkrNHJHaGVpVEZ3ZE9PaXV3RE9GMlY4dzV6M2dNdSt6SHpCS2FKNnkvbUJSYlNIZzdWWXZ5d3hQNkFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNjA0MjQ0CWZpbGU6VmVudHJhY2sgUE9TXzAuMi4wLWJldGEuMl94NjQtc2V0dXAuZXhlCldUd0lSMnBEclBlLzAwTlE1R0ZGODBvK0xES0JxVzUyTktIRjJad0xUWjRsZ1llZGErdzZrcm5Tc3hUYk9FcVp6K096Z3J2Z3NXYlFOaXVWSm16WkJ3PT0K",
-      "url": "https://github.com/NightlySoftware/ventrack-dist/releases/download/v0.2.0-beta.2/Ventrack.POS_0.2.0-beta.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeUplcTVwdzByTitTZVJ2THZESC8rU1dnV1Q0MFFLUTJBRnpCU3l0M1cxeFd0QUJDMjRHWWZsa2N5K2d3Qk0xblJhMjZHTTRnazBaUXBINlI1MG5rblZHbnB4eVhWcEFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNjI3NjcyCWZpbGU6VmVudHJhY2sgUE9TXzAuMi4wLWJldGEuM194NjQtc2V0dXAuZXhlCko0YVlsZFlyeUN0c0FTTko0SjM5MVgzTlNLMTM4NU1xV3FRVGg2Q2NSMXZKYjFrTXdrZk5WdENRZUo4b0MzRHRBZDAzRnU0MlM4ZDJIQldHRXltMEFRPT0K",
+      "url": "https://github.com/NightlySoftware/ventrack-dist/releases/download/v0.2.0-beta.3/Ventrack.POS_0.2.0-beta.3_x64-setup.exe"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeUplcTVwdzByTjdCY3d0WVl4ckl0Mk9BK1BVdjNHOVdPaDVPVWkrNHJHaGVpVEZ3ZE9PaXV3RE9GMlY4dzV6M2dNdSt6SHpCS2FKNnkvbUJSYlNIZzdWWXZ5d3hQNkFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNjA0MjQ0CWZpbGU6VmVudHJhY2sgUE9TXzAuMi4wLWJldGEuMl94NjQtc2V0dXAuZXhlCldUd0lSMnBEclBlLzAwTlE1R0ZGODBvK0xES0JxVzUyTktIRjJad0xUWjRsZ1llZGErdzZrcm5Tc3hUYk9FcVp6K096Z3J2Z3NXYlFOaXVWSm16WkJ3PT0K",
-      "url": "https://github.com/NightlySoftware/ventrack-dist/releases/download/v0.2.0-beta.2/Ventrack.POS_0.2.0-beta.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeUplcTVwdzByTitTZVJ2THZESC8rU1dnV1Q0MFFLUTJBRnpCU3l0M1cxeFd0QUJDMjRHWWZsa2N5K2d3Qk0xblJhMjZHTTRnazBaUXBINlI1MG5rblZHbnB4eVhWcEFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNjI3NjcyCWZpbGU6VmVudHJhY2sgUE9TXzAuMi4wLWJldGEuM194NjQtc2V0dXAuZXhlCko0YVlsZFlyeUN0c0FTTko0SjM5MVgzTlNLMTM4NU1xV3FRVGg2Q2NSMXZKYjFrTXdrZk5WdENRZUo4b0MzRHRBZDAzRnU0MlM4ZDJIQldHRXltMEFRPT0K",
+      "url": "https://github.com/NightlySoftware/ventrack-dist/releases/download/v0.2.0-beta.3/Ventrack.POS_0.2.0-beta.3_x64-setup.exe"
     }
   },
   "ventrack": {
     "channel": "beta",
-    "sourceSha": "2468bb6ebac5683d2fe4ad600b4ee55be7b40075",
+    "sourceSha": "6fef7d08ed1a575a81579fbb3e113260ce3f5f9d",
     "rollout": {
       "percent": 100,
       "stores": []
