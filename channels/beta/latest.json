@@ -16,7 +16,7 @@
     "channel": "beta",
     "sourceSha": "2468bb6ebac5683d2fe4ad600b4ee55be7b40075",
     "rollout": {
-      "percent": 0,
+      "percent": 100,
       "stores": []
     }
   }
